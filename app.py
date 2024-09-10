@@ -162,7 +162,7 @@ with st.sidebar:
         
         Github : https://github.com/acecic82/assignment_site_gpt 
 
-        streamlit : 
+        streamlit : https://assignmentsitegpt-asevyw8zmrxkxbrxbqnydi.streamlit.app/
 
         """
     )
